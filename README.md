@@ -1,3 +1,5 @@
+## Выполнили практическую работу студенты 3ИСИП-223 Филин Д. и Березнев Я.
+
 ### Скриншот работы программы:
 <img width="1055" height="822" alt="image" src="https://github.com/user-attachments/assets/a5e0921a-151d-4a47-a3fe-ee6e055dadee" />
 
